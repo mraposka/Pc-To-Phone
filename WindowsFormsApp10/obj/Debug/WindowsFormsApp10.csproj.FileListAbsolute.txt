@@ -1,0 +1,9 @@
+C:\Users\CASPER\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\CASPER\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\CASPER\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\CASPER\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\CASPER\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\CASPER\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\CASPER\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\CASPER\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
